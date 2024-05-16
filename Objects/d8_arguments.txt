@@ -1,0 +1,27 @@
+--release
+--output
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects
+--lib
+C:\AndroidB4A\resources_11_22\platforms\android-33\android.jar
+C:\AndroidB4A\resources_11_22\tools\..\extras\b4a_local\unpacked-b4ashared-63837495756000\dex_v1\b4ashared.zip
+C:\AndroidB4A\resources_11_22\tools\..\extras\b4a_local\unpacked-debug-63837495758000\dex_v1\debug.zip
+C:\AndroidB4A\resources_11_22\tools\..\extras\b4a_local\unpacked-core-63837495758000\dex_v1\core.zip
+C:\AndroidB4A\resources_11_22\tools\..\extras\b4a_local\unpacked-xui-63837495758000\dex_v1\xui.zip
+C:\AndroidB4A\resources_11_22\tools\..\extras\b4a_local\unpacked-sql-63837495758000\dex_v1\sql.zip
+C:\AndroidB4A\resources_11_22\tools\..\extras\b4a_local\unpacked-remotelogger-63837495758000\dex_v1\remotelogger.zip
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\main$1.dex
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\main$B4AMenuItemsClickListener.dex
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\main$HandleKeyDelayed.dex
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\main$ResumeMessage.dex
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\main$WaitForLayout.dex
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\main.dex
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\R$drawable.dex
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\R$style.dex
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\R.dex
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\starter$1.dex
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\starter$2.dex
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\starter$starter_BR.dex
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\starter.dex
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\zapato.dex
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\zapatos.dex
+C:\Users\onvia\OneDrive - Universidad Tecnica del Norte\7mo Semestre\Aplicaciones Moviles\Fuentes_Bryan_Examen_Bimestral\Objects\dexed\b4a\example\designerscripts\LS_layout.dex

@@ -1,0 +1,15 @@
+﻿ModuleBookmarks0=
+ModuleBookmarks1=
+ModuleBookmarks2=
+ModuleBookmarks3=
+ModuleBreakpoints0=
+ModuleBreakpoints1=
+ModuleBreakpoints2=
+ModuleBreakpoints3=
+ModuleClosedNodes0=1,2
+ModuleClosedNodes1=1
+ModuleClosedNodes2=
+ModuleClosedNodes3=
+NavigationStack=Main,Activity_Create,31,0,Main,cmdDelete_Click,44,0,Zapatos,Initialize,6,0,Main,cmdInsert_Click,75,1,Zapatos,Create,12,1,Zapatos,Read_All,26,1,Zapatos,Read_ById,48,1,Zapatos,Update,64,1,Zapatos,Delete,73,1,Diseñador Visual,Layout.bal,-100,6
+SelectedBuild=0
+VisibleModules=1,2,3
